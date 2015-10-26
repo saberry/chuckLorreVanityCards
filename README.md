@@ -15,6 +15,7 @@ These are things that I had seen at various points (I only watch his shows on oc
 
 Honestly, the having fun aspect is the biggest part.  Scraping data from the web is fun and is getting easier thanks to that fellow at RStudio (I did not have any problems with using xpaths in XML, but rvest has made it even easier). It always presents a good challenge, in that you never know if the content is going to be amenable to be scraped in an efficient manner. For this reason, I commend the person behind Chuck Lorre's vanity card site.
 
+
 ## Mild Disclaimer
 
 I find these amusing. I enjoy some, but not others. I do not find any of them to be offensive, but I will not promise that someone else might not.
