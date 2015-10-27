@@ -63,7 +63,7 @@ names(vanityText) = "text"
 
 vanityText = str_split_fixed(vanityText$text, "1st Aired:", 2) %>% 
   data.frame(stringsAsFactors = FALSE) %>% 
-  dplyr::rename(text = X1, date = X2)
+  rename(text = X1, date = X2)
 
 # Now we need to do some cleaning up of the dates. They are formatted 
 # like, "26 October 2015", but we need them to be POSIX values.
@@ -74,3 +74,5 @@ vanityText$date = vanityText$date %>%
   lubridate::parse_date_time("%d%B%y") # We need to specify the date string to go POSIX
 
 # save(cardText, vanityText, file = "data/chuckLorreText.RData")
+
+# write.csv(vanityText, file = "data/chuckLorreText.csv", row.names = FALSE)

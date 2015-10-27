@@ -3,11 +3,11 @@ Scrape and Analyse Chuck Lorre's Vanity Cards
 
 ## Who?
 
-The guy that makes television shows like Will & Grace, Grace Under Fire (which I remember enjoying when I was young), and the Big Bang Theory. 
+The guy that created television shows like Will & Grace, Grace Under Fire (which I remember enjoying when I was young), and the Big Bang Theory. 
 
 ### A Quick Note
 
-The Big Bang Theory often amuses me if I watch it, but sometimes the scientific terminology is wrong (I remember that one of the characters said negative reinforcement when he was really referring to punishment - he wanted to stop behavior) and I get so tired of people typing things like, "Oh my God! I watch the Big Bang Theory and I am such a nerd!". These are generally the same people that will bolster that claim by saying that they enjoy the "Avengers" movies. 
+The Big Bang Theory often amuses me if I watch it, but sometimes the scientific terminology is wrong (I remember that one of the characters said negative reinforcement when he was really referring to punishment - he wanted to stop behavior) and I get so tired of people typing things like, "Oh my God! I watch the Big Bang Theory and I am such a nerd!". These are generally the same people that will bolster that claim by saying that they enjoy the "Avengers" movies.  This aside is really only to make me feel better about myself and has no real relevance. 
 
 ## Why?
 
