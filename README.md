@@ -1,5 +1,5 @@
 # chuckLorreVanityCards
-Scrape and Analyse Chuck Lorre's Vanity Cards
+Scrape and Analyze Chuck Lorre's Vanity Cards
 
 ## Who?
 
