@@ -1,5 +1,5 @@
 # chuckLorreVanityCards
-Scrape and Analyse Chuck Lorre's Vanity Cards
+Scrape and Analyze Chuck Lorre's Vanity Cards
 
 ## Who?
 
@@ -20,3 +20,7 @@ Honestly, the having fun aspect is the biggest part.  Scraping data from the web
 
 I find these amusing. I enjoy some, but not others. I do not find any of them to be offensive, but I will not promise that someone else might not.
 
+<<<<<<< HEAD
+=======
+I find these amusing. I enjoy some, but not others. I do not find any of them to be offensive, but I will not promise that someone else might not.
+>>>>>>> 690af5f9d554d659379166f2448459adbb58d454
