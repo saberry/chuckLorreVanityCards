@@ -20,7 +20,6 @@ Honestly, the having fun aspect is the biggest part.  Scraping data from the web
 
 I find these amusing. I enjoy some, but not others. I do not find any of them to be offensive, but I will not promise that someone else might not.
 
-<<<<<<< HEAD
-=======
-I find these amusing. I enjoy some, but not others. I do not find any of them to be offensive, but I will not promise that someone else might not.
->>>>>>> 690af5f9d554d659379166f2448459adbb58d454
+## The Goal
+
+I think it will be fun to do some topic models on these text.
