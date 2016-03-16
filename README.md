@@ -49,7 +49,7 @@ I think it will be fun to do some topic models on these texts.  Given that there
 Plus, lot's of this:
 
 
-![wordCloud](wordCloud.svg)
+![wordCloud](wordCloud.png)
 
 Only because I know @mclark-- has a real affinity for them.
 
