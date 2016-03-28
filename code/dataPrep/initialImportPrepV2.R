@@ -110,6 +110,12 @@ vanityText$date = str_replace_all(vanityText$date, "\n.*$", "")
 
 vanityText$text = str_replace_all(vanityText$text, "\n|\t", "")
 
+vanityText$show = str_replace_all(vanityText$show, "\n|\t|\n\t|^\\s", "")
+
+vanityText$show = factor(vanityText$show, 
+                         levels = c("Big Bang Theory", "Dharma & Greg", 
+                                    "Mike & Molly", "Mom", "Two and a Half Men"))
+
 # Now we need to do some cleaning up of the dates. They are formatted 
 # like, "26 October 2015", but we need them to be POSIX values.
 
